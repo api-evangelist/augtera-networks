@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://augtera.com/', status: 301, note: 'declared website redirects to https://www.nvidia.com/en-us/#referrer=augtera — a different registrable domain (augtera.com -> nvidia.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/augtera-networks.png
 name: Augtera Networks
 description: Augtera Networks is an AI-native networking (Network AIOps) company founded in 2016 and based in Palo

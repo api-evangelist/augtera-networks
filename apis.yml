@@ -52,8 +52,8 @@ tags:
 - Networking
 - AIOps
 - Network Monitoring
-- Machine-Learning
-- Data-Center
+- Machine Learning
+- Data Center
 - Acquired
 tags_raw:
 - Company
@@ -64,6 +64,8 @@ tags_raw:
 - Machine Learning
 - Data Center
 - Acquired
+- Machine-Learning
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
